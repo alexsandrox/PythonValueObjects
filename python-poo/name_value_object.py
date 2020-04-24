@@ -26,6 +26,3 @@ class NameValueObject:
         else:
             self.to_string(first, last)
             return True
-
-# testando a classe
-name = NameValueObject('Alexsandro', 'Andrade')
