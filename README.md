@@ -1,5 +1,5 @@
-# Teste de Git no Visual Studio Code com Python
-## Python com Programação Orientada à Objetos
+# Python com Programação Orientada à Objetos
+## Python e Classes Value Objects
 
 Repositório criado para testar o Git com Visual Studio Code e Python usando Ubuntu e WSL2 no Windows 10
 
