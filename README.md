@@ -6,11 +6,11 @@
 
 # Python Orientado à Objetos e Domain Driven Design
 
-Repositório criado para testar o Git com Visual Studio Code e Python usando Ubuntu e WSL2 no Windows 10
+Repositório criado para testar o Git com Visual Studio Code e Python usando Ubuntu e WSL no Windows 10
 
-Criação da classe NameValueObject, que representa uma classe objeto de valor
+Criação da classe NameValueObject, que representa uma classe objeto de valor.
 
-A classe NameValueObject deve ficar no pacote compartilhado do projeto.
+A classe NameValueObject será criada dentro do pacote compartilhado do projeto.
 
 As classes do tipo Value Object devem ser criadas em pacotes compartilhados, para serem usadas em todo 
 projeto, respeitando assim uma arquitetura de design de software adequada para serviços ou micro-serviços.
